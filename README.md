@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sup! 🤟
 
 - 🔭 I’m currently working on beUs-eCommerce
 - 🌱 I’m currently learning Node.js , Flutter
