@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on beUs-eCommerce
+- 🌱 I’m currently learning Node.js Flutter
+- 💬 Ask me about Computers , Hardware ,SoftWare ,....
+- 📫 How to reach me: Email:-ad123bhaumik@gmail.com, Twitter: @aditya_bhaumik, Instagram :adibhaumik
+- 😄 Pronouns: He
+- ⚡ Fun fact: Google/Asus/Nvidia - Fanboy
+
 <!--
 **Adityabhaumik/Adityabhaumik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
