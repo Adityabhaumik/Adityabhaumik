@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on beUs-eCommerce
 - 🌱 I’m currently learning Node.js , Flutter
-- 💬 Talk to me about  Hardware ,SoftWare ,Processor, CSGO 
+- 💬 Talk to me about  Hardware ,Software ,Processor, CSGO 
 - 📫 How to reach me: Email:-ad123bhaumik@gmail.com, Twitter: https://twitter.com/aditya_bhaumik
 - 😄 Pronouns: He
 - ⚡ Fun fact: Google/Asus/Nvidia - Fanboy
