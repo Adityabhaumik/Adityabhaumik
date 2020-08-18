@@ -5,7 +5,7 @@
 - 💬 Talk to me about  Hardware ,Software ,Processor, CSGO 
 - 📫 How to reach me: Email:-ad123bhaumik@gmail.com, Twitter: https://twitter.com/aditya_bhaumik
 - 😄 Pronouns: He
-- ⚡ Fun fact: Google/Asus/Nvidia - Fanboy
+- ⚡ Fun fact: Searching
 
 <!--
 **Adityabhaumik/Adityabhaumik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
