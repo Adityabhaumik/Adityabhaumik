@@ -2,10 +2,11 @@
 
 - 🔭 I’m currently working on beUs-eCommerce
 - 🌱 I’m currently learning Node.js , Flutter
-- 💬 Talk to me about  Hardware ,Software ,Processor, CSGO 
-- 📫 How to reach me: Email:-ad123bhaumik@gmail.com, Twitter: https://twitter.com/aditya_bhaumik
+- 💬 Talk to me about  Software ,Processor,Gpu's,Memory, CSGO 
+- 📫 How to reach me: Email:-adi123bhaumik@gmail.com, Twitter: https://twitter.com/aditya_bhaumik
 - 😄 Pronouns: He
 - ⚡ Fun fact: Searching
+- 🤩 Fan boy: Google | Nvidia | Amd 
 
 <!--
 **Adityabhaumik/Adityabhaumik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
