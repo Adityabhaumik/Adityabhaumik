@@ -6,7 +6,7 @@
 - 📫 How to reach me: Email:-adi123bhaumik@gmail.com, Twitter: https://twitter.com/aditya_bhaumik
 - 😄 Pronouns: He
 - ⚡ Fun fact: Searching
-- 🤩 Fan boy: Google | Nvidia | Amd 
+- 🤩 Fan boy: Nvidia | Amd | Gravity
 
 <!--
 **Adityabhaumik/Adityabhaumik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
