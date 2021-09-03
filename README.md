@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Node.js , Flutter
 - 💬 Talk to me about  Software ,Processor,Gpu's, CSGO 
 - 📫 How to reach me: Email:-adi123bhaumik@gmail.com
-- 💻 Things I Know : Cpp , Python , Flutter, Html , Css , Js , Vuejs 3, Nodejs(ExpressJs) , Mongo DB , Mysql ,firebase
+- 💻 Things I Know : Well ...... 😅
 - 😄 Pronouns: He
 - ⚡ Fun fact: Searching
 
