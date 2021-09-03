@@ -1,6 +1,6 @@
 ### Sup! 🤟
 
-- 🔭 I’m currently working on beUs-eCommerce
+- 🔭 I’m currently working as an Intern at Footprint
 - 🌱 I’m currently learning Node.js , Flutter
 - 💬 Talk to me about  Software ,Processor,Gpu's, CSGO 
 - 📫 How to reach me: Email:-adi123bhaumik@gmail.com
