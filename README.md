@@ -1,7 +1,7 @@
 ### Sup! 🤟
 
-- 🔭 I’m currently working as an Intern at Footprint
-- 🌱 I’m currently learning Node.js , Flutter
+<!--- 🔭 I’m currently working as on some of my projects -->
+- 🌱 I’m currently learning  Flutter , native andriod dev
 - 💬 Talk to me about  Software ,Processor,Gpu's, CSGO 
 - 📫 How to reach me: Email:-adi123bhaumik@gmail.com
 - 💻 Things I Know : Well ...... 😅
